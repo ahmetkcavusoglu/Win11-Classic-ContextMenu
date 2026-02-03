@@ -9,7 +9,7 @@ Bring back the Windows 10 style right-click menu to Windows 11.
 ## What is this?
 
 Windows 11 has a new context menu that hides many options behind "Show more options". This tool restores the classic Windows 10 menu with all options visible immediately.
-![Context Menu Comparison](context-menu-comparison .png)
+![Context Menu Comparison](context-menu-comparison.png)
 **Simple. Safe. Reversible.**
 
 ---
