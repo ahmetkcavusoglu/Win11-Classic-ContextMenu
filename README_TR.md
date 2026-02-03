@@ -9,7 +9,7 @@ Türkçe | [English](README.md)
 ## Nedir bu?
 
 Windows 11'de yeni menü birçok seçeneği "Daha fazla seçenek göster" arkasına gizliyor. Bu araç, tüm seçeneklerin hemen görüldüğü klasik Windows 10 menüsünü geri getirir.
-
+![Context Menu Comparison](context-menu-comparison.png)
 **Basit. Güvenli. Geri alınabilir.**
 
 ---
